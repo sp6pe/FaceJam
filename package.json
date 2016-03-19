@@ -1,0 +1,28 @@
+{
+  "name": "tessel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.4.2",
+    "body-parser": "^1.14.1",
+    "chalk": "^1.1.1",
+    "debug": "^2.2.0",
+    "express": "^4.13.3",
+    "lame": "^1.2.3",
+    "mongoose": "^4.1.10",
+    "morgan": "^1.6.1",
+    "speaker": "^0.2.6"
+  },
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3",
+    "nodemon": "^1.7.1",
+    "supertest": "^1.1.0"
+  }
+}
